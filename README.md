@@ -10,6 +10,7 @@ Simple crud in django
 
 3-Activation d’environnement virtuel :
 • Windows : .\Scrpits\activate
+
 • Linux : ./bin/activate
 
 Aprés avoir activer votre environemment , il faut cloner le projet et toujours dans le terminal installer le fichier requirements.txt:
