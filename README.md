@@ -9,7 +9,8 @@ Simple crud in django
 2-Création d’environnement virtuel : virtualenv . (dans le workspace)
 
 3-Activation d’environnement virtuel :
-• Windows : .\Scrpits\activate
+
+• Windows : .\Scripts\activate
 
 • Linux : ./bin/activate
 
