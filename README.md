@@ -3,7 +3,10 @@ Simple crud in django
 
 
 
-# Vous créez votre propre environnement virtuel 
+### Vous créez votre propre environnement virtuel 
+
+*Ouvrir un terminal
+
 1- Installation d’environnement Python : pip install pipenv
 
 2-Création d’environnement virtuel : virtualenv . (dans le workspace)
