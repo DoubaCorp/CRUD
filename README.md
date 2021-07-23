@@ -1,5 +1,17 @@
 # crud
 Simple crud in django
 
-# Installation
-pip install requirements.txt
+
+
+# Vous créez votre propre environnement virtuel 
+1- Installation d’environnement Python : pip install pipenv
+
+2-Création d’environnement virtuel : virtualenv . (dans le workspace)
+
+3-Activation d’environnement virtuel :
+• Windows : .\Scrpits\activate
+• Linux : ./bin/activate
+
+Aprés avoir activer votre environemment , il faut cloner le projet et toujours dans le terminal installer le fichier requirements.txt:
+-pip install requirements.txt 
+Enfin lancer le projet.
